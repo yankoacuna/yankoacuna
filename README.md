@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yanko Acuña
 
 ### 💻 Computer Science Engineer
-## Full-Stack Developer | Data Scientist
+#### Full-Stack Developer | Data Scientist
 I am a passionate developer focused on building scalable web applications and efficient software solutions. Currently working as a **Systems and Processes Analyst**, I enjoy bridging the gap between complex technical architectures and business needs.
 
 ---
